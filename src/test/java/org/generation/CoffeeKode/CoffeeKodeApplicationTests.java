@@ -1,10 +1,10 @@
-package org.generation.SistemaContableCH19;
+package org.generation.CoffeeKode;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SistemaContableCh19ApplicationTests {
+class CoffeeKodeApplicationTests {
 
 	@Test
 	void contextLoads() {
